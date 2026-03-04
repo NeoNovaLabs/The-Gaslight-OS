@@ -10,7 +10,6 @@
 * **Sentient Error Screens:** A gallery of custom-made nonsense errors, including:
     * **Vibration Mode:** Warnings that your monitor might walk off the desk.
     * **Linux Identity Crisis:** The PC forgets it's running Windows.
-    * **The Ransom:** Demands for 2.5 Ethereum to "continue breathing."
 * **Invisible Mouse:** Hides the cursor for a truly "locked" feeling.
 
 ---
