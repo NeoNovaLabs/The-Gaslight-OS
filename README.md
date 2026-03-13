@@ -12,7 +12,7 @@
 * **Invisible Mouse:** Hides the cursor for a truly "locked" feeling.
 * **Custom Nonsense Errors:** Includes "Vibration Mode" and "Linux Identity Crisis" graphics.
 
-### 2. The Infinite BTC Grift (`idk.py`)
+### 2. The Infinite BTC Grift (`BTC.py`)
 * **False Wealth:** Generates fake "100 BTC Private Key" files in random user directories.
 * **Recursive Gaslighting:** Tells the user they must delete the file to claim the prize, only to generate a new one and insult them.
 * **AI Sass:** Analyzes the user's "bad vibes" and refuses to provide the reward.
@@ -43,7 +43,7 @@
     Bash
 
     python BSOD.py  # For the lockdown
-    python idk.py   # For the fake BTC rewards
+    python BTC.py   # For the fake BTC rewards
 
 📺 YouTube & Devlogs
 
